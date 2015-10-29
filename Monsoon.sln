@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsoon", "Monsoon\Monsoon.csproj", "{73EA8DDD-A84A-4796-8DAC-31D9BEF28024}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DhtExtension", "DhtExtension\DhtExtension.csproj", "{21BBF2C6-11F3-4006-BA93-E9C8A980AE74}"
@@ -26,8 +26,6 @@ Global
 		{73EA8DDD-A84A-4796-8DAC-31D9BEF28024}.Stats|Any CPU.Build.0 = Stats|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		version = 0.1
-		StartupItem = Monsoon\Monsoon.csproj
 		MonoDevelop.ChangeLogAddIn.ChangeLogInfo = $0
 		$0.policy = OneChangeLogInProjectRootDirectory
 		name = Monsoon
